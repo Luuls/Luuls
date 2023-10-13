@@ -11,10 +11,10 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="47" height="47"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="47" height="47"/>
   </a> 
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="47" height="47"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="47" height="47"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="47" height="47"/> 
