@@ -35,6 +35,15 @@
 
 #
 
+<div align="center">
+  <h3>Contatos</h3>
+  <a href="https://www.linkedin.com/in/luan-moraes-4a9226226/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+#
+
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luuls&theme=github_dark&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuls&layout=donut&langs_count=5&theme=github_dark&hide=vhdl">
