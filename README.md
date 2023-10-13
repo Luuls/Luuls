@@ -1,8 +1,8 @@
 ### Opa 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luuls&theme=transparent&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuls&layout=donut&langs_count=6&theme=transparent&hide=vhdl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luuls&theme=github_dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuls&layout=donut&langs_count=6&theme=github_dark&hide=vhdl">
 </div>
 <!--
 **Luuls/Luuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
