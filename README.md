@@ -37,7 +37,7 @@
 
 <div align="center">
   <h3>Contatos</h3>
-  <a href="https://www.linkedin.com/in/luan-moraes-4a9226226/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/luan-da-silva-moraes-4a9226226/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
