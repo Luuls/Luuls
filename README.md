@@ -3,7 +3,6 @@
 </h1>
 
 - 🎓 Bacharelando em Ciências da Computação pela [Universidade Federal de Santa Catarina (UFSC)](https://ufsc.br/) <img src="https://iconape.com/wp-content/png_logo_vector/u-f-s-c-universidade-federal-de-santa-catarina-logo.png" width="20" height="20"/>
-- 🔐 Bolsista no [Laboratório de Segurança em Computação (LabSEC)](https://labsec.ufsc.br/) <img src="https://labsec.ufsc.br/files/2022/05/labsec-icon-150x60.png" width="43" height="20"/>
 - 🔎 Em busca do Neovim inexplicável
 
 #
